@@ -23,6 +23,7 @@ var (
 	DefaultSchemas = []string{
 		"http://",
 		"https://",
+		"ionic://",
 	}
 	ExtensionSchemas = []string{
 		"chrome-extension://",
